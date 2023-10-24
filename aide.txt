@@ -1,0 +1,9 @@
+Map:
+    
+    Taille de la map: 
+        1000px par 1000px;
+    tile:
+        50px par 50px;
+     
+
+
